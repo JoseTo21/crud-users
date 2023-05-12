@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import useUsersCrud from "./hooks/useUsersCrud";
-import UsersCard from "./components/usersCard";
+import UsersCard from "./components/UsersCard";
 import FormUsers from "./components/FormUsers";
 
 function App() {
